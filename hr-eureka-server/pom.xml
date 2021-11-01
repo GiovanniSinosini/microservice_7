@@ -12,7 +12,7 @@
 	<groupId>com.giosinosini</groupId>
 	<artifactId>hr-worker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-worker</name>
+	<name>hr-eureka-server</name>
 	<description>Worker Microservice</description>
 
 	<properties>
